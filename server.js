@@ -1,5 +1,6 @@
 // var connect = require('./node_modules/connect');
 // var app = connect();
+//test
 process.env.NODE_ENV = process.env.NODE_ENV || 'development';
 
 // var uri = 'mongodb://localhost/twitter_clone';
